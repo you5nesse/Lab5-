@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792771937 source:c:\users\pc\documents\sql_lab1\exercice3\src\utilisateur.cpp
+	"Utilisateur.h"
+
+1792771927 c:\users\pc\documents\sql_lab1\exercice3\include\utilisateur.h
+	<string>
+

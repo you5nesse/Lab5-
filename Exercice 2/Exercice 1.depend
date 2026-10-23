@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792770150 source:c:\users\pc\documents\sql_lab1\exercice 1\src\produit.cpp
+	"Produit.h"
+
+1792770419 c:\users\pc\documents\sql_lab1\exercice 1\include\produit.h
+	<iostream>
+	<string>
+
